@@ -1,0 +1,41 @@
+﻿Vendor,URL,SourceClass,Origin
+21CS,https://21cs.com/,Partial,29 vendor audit - public source; live extraction not verified
+ASG,https://www.rocketsoftware.com/sites/default/files/resource_files/tmon-zos.pdf,Partial,29 vendor audit - public source; live extraction not verified
+Action Software International,https://actionsoftware.com/products/eventaction/,Public source,Verified public documentation
+Action Software International,https://actionsoftware.com/support-form/release-history/,Previously configured,V13 retained
+BMC,https://docs.bmc.com/xwiki/bin/view/Mainframe/Ops/BMC-AMI-Capacity-Management/bacm262/Planning-and-installing/System-requirements-for-product-installation/Support-matrix/,Blocked + indexed,29 vendor audit - public source; live extraction not verified
+BMC,https://docs.bmc.com/xwiki/bin/view/Mainframe/Ops/BMC-AMI-Capacity-Management/bacm263/Planning-and-installing/System-requirements-for-product-installation/Support-matrix/,Public source,Verified public documentation
+BMC,https://docs.bmc.com/xwiki/bin/view/Mainframe/Ops/BMC-AMI-Ops-User-Interface/baoui31/Planning/Requirements/,Previously configured,V13 retained
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML,Direct,29 vendor audit - public source; live extraction not verified
+"Chicago-Soft, Ltd",https://chicago-soft.com/category/quickref/new-release/,Partial,29 vendor audit - public source; live extraction not verified
+Compute (Bridgend) Ltd.,https://cbl.com/opsystems.php,Direct,29 vendor audit - public source; live extraction not verified
+"Confluent, Inc",https://docs.confluent.io/platform/8.4/connect/connect-zos.html,Direct,29 vendor audit - public source; live extraction not verified
+Data Kinetics Ltd,https://www.dkl.com/support/faqs/,Partial,29 vendor audit - public source; live extraction not verified
+Dynatrace,https://docs.dynatrace.com/docs/ingest-from/technology-support,Public source,Verified public documentation
+Dynatrace,https://docs.dynatrace.com/docs/ingest-from/technology-support/oneagent-platform-and-capability-support-matrix,Direct,29 vendor audit - public source; live extraction not verified
+GXS,https://usa.ie.gxs.com/IEFEOLC/support/Library/LibraryIndex.htm,Historical only,29 vendor audit - public source; live extraction not verified
+"Global 360, Inc.",https://my.opentext.com/support/products/,Not confirmed,29 vendor audit - public source; live extraction not verified
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/index.html,Previously configured,V13 retained
+Macro 4,https://www.macro4.com/products/columbus-z/,Partial,29 vendor audit - public source; live extraction not verified
+"NewEra Software, Inc.",https://www.newera-info.com/Products.html,Partial,29 vendor audit - public source; live extraction not verified
+Open Source Software,https://www.ibm.com/docs/en/oefzos?topic=resources,Conditional public,29 vendor audit - public source; live extraction not verified
+OpenText Corporation,https://www.opentext.com/products/rebrand,Partial,29 vendor audit - public source; live extraction not verified
+"PKWARE, Inc.",https://www.pkware.com/products/pkzip,Direct + statement,29 vendor audit - public source; live extraction not verified
+Precisely,https://community.precisely.com/communities/community-home/digestviewer/viewthread?CommunityKey=7c7e9f48-d241-4b84-b51b-de5c87031097&GroupId=619&MessageKey=25d31b1d-a2e4-472b-a890-2b3975a6f533,Previously configured,V13 retained
+Precisely,https://community.precisely.com/discussion/ironstream-for-ibm-z-now-compatible-with-zos-32,Previously configured,V13 retained
+Precisely,https://community.precisely.com/discussion/ironstream-for-z-os-v2-1-14-service-pack-notice,Previously configured,V13 retained
+Precisely,https://community.precisely.com/discussion/ironstream-for-zos-v2110-service-pack-notice,Previously configured,V13 retained
+Precisely,https://community.precisely.com/discussion/ironstream-for-zos-v2111-service-pack-notice,Previously configured,V13 retained
+Precisely,https://support.precisely.com/products/syncsort-mfx,Public source,Verified public documentation
+Precisely,https://www.precisely.com/support/mfx-support-lifecycle-schedule/,Previously configured,V13 retained
+Rocket,https://docs.rocketsoftware.com/bundle,Partial,29 vendor audit - public source; live extraction not verified
+Rocket,https://www.rocketsoftware.com/en-us/events/tmon-modernization-2025-ai-and-data-streaming,Previously configured,V13 retained
+Rocket,https://www.rocketsoftware.com/sites/default/files/resource_files/tmon-zos.pdf,Previously configured,V13 retained
+Segus,https://www.segus.com/media/DB2-10-for-Developers.pdf,Partial,29 vendor audit - public source; live extraction not verified
+Software Diversified Services,https://www.sdsusa.com/products/,Partial,29 vendor audit - public source; live extraction not verified
+"Systemware, Inc.",https://www.systemware.com/ibm-compatibility/,Public source,Verified public documentation
+VANGUARD Integrity Prof.,https://www.go2vanguard.com/product-support-eol-schedule/,Previously configured,V13 retained
+ASG,https://docs-be.rocketsoftware.com/bundle/ZekeSchedulingforzOS_InstallationGuide_V6.2.0/raw/resource/enus/ZekeSchedulingforzOS_InstallationGuide_V6.2.0.pdf,Partial,Official Rocket-hosted Zeke installation guide; requirements are not current 3.2 certification
+ASG,https://docs-be.rocketsoftware.com/bundle/zekeschedulingforzos_documentation_v7.0.3/raw/resource/enus/zekeschedulingforzos_documentation_v7.0.3.pdf,Partial,Official Rocket-hosted Zeke release documentation; old minimum OS does not establish current support
+Open Source Software,https://zopen.community/RpmPackages,Conditional,"Official zopen RPM catalog; per-package version/build/port verification, not z/OS 3.2 certification"
+Open Source Software,https://zopen.community/Guides/ThePackageManager,Conditional,"Official package manager OS prerequisite, not every package certified"

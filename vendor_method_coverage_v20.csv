@@ -1,0 +1,30 @@
+﻿vendor,source_category,extraction_method,configured_urls,read_urls,failed_urls,published_fact_rows,exact_inventory_claims,result
+21CS,Partial,Official product documentation only; release certification unverified,1,1,0,0,0,Pages readable; no extracted facts
+ASG,Partial,Rocket-hosted historical ASG product manuals and release guides,4,2,2,0,0,Pages readable; no extracted facts
+Action Software International,Direct,eventACTION release-history/version/service table,2,2,0,153,0,Published document facts only
+BMC,Partial,Support matrix when anonymous access is permitted; 403 is blocked,9,7,16,0,0,Pages readable; no extracted facts
+Broadcom,Direct,Broadcom compatibility matrix and scoped PTFs,8,20,4,0,566,Exact claims available — review evidence
+"Chicago-Soft, Ltd",Partial,QuickRef release notes; support portal may require login,2,2,0,0,0,Pages readable; no extracted facts
+"Cincom Systems, Inc.",Historical,No current official release-specific source confirmed,0,0,0,0,0,No official source configured
+"Cisco Systems, Inc.",Not confirmed,No current first-party z/OS compatibility source confirmed,0,0,0,0,0,No official source configured
+Compute (Bridgend) Ltd.,Direct,CBL supported OS and maintenance rows,1,2,0,3,0,Published document facts only
+"Confluent, Inc",Direct,Connect on z/OS explicit version certification; no extrapolation,1,3,0,1,0,Published document facts only
+Data Kinetics Ltd,Partial,tableBASE product support policy; no general 3.2 certification,1,1,0,0,0,Pages readable; no extracted facts
+Dynatrace,Direct,OneAgent platform capability matrix,2,1,1,0,0,Pages readable; no extracted facts
+FIS,Not confirmed,No product-specific official compatibility matrix found,0,0,0,0,0,No official source configured
+GXS,Historical,"Legacy product manuals only, not current certification",1,5,0,0,0,Pages readable; no extracted facts
+"Global 360, Inc.",Not confirmed,Support portal/product catalog without public compatibility,1,1,0,0,0,Pages readable; no extracted facts
+IBM,Dynamic,SPCR report rendering; static shell must not count as evidence,50,59,0,44,0,Published document facts only
+"Levi Ray & Shoup, Inc.",Partial,JES3plus interoperability is not z/OS platform certification,0,0,0,0,0,No official source configured
+Macro 4,Partial,Columbus Z product release documentation,1,1,0,0,0,Pages readable; no extracted facts
+"NewEra Software, Inc.",Partial,SAE product release/technical documentation,2,2,0,0,0,Pages readable; no extracted facts
+Open Source Software,Conditional,Per-package zopen/IBM port and package metadata,3,14,0,0,0,Pages readable; no extracted facts
+OpenText Corporation,Partial,z/Protect published technical product documentation,1,1,0,0,0,Pages readable; no extracted facts
+"PKWARE, Inc.",Direct,PKZIP product release and minimum z/OS requirement,1,1,0,1,0,Published document facts only
+Precisely,Direct,MFX lifecycle tables and Ironstream service-pack announcements,8,18,0,53,0,Published document facts only
+Quest Software Inc,Historical,Legacy product release material; no current vendor certification,0,0,0,0,0,No official source configured
+Rocket,Partial,Release-specific Rocket installation guides and notices,6,4,2,0,0,Pages readable; no extracted facts
+Segus,Partial,Bind ImpactExpert product technical documentation,1,1,0,0,0,Pages readable; no extracted facts
+Software Diversified Services,Partial,CAFC and other z/OS product documentation,1,1,0,0,0,Pages readable; no extracted facts
+"Systemware, Inc.","Direct, limited",Published product maintenance levels and scoped PTF mentions,1,1,0,10,0,Published document facts only
+VANGUARD Integrity Prof.,Direct,Product-version tested OS range and lifecycle schedule,1,1,0,0,0,Pages readable; no extracted facts

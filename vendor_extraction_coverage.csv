@@ -1,0 +1,30 @@
+﻿vendor,inventory_products,configured_urls,urls_checked,urls_read,urls_failed,urls_with_exact_claims,compatibility_claims,ptf_claims,document_facts,evidence_only_observations,dynamic_shell_pages,coverage_state,next_action
+21CS,1,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+Action Software International,1,2,2,2,0,0,0,0,153,36,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+ASG,3,4,4,2,2,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+BMC,181,9,23,7,16,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+Broadcom,233,8,24,20,4,176,644,807,0,0,0,Exact inventory-matched source claims extracted,Review accepted claims against product/release evidence
+"Chicago-Soft, Ltd",1,2,2,2,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+"Cincom Systems, Inc.",1,0,0,0,0,0,0,0,0,0,0,No fetched source URL,Identify an accessible official product-specific source
+"Cisco Systems, Inc.",2,0,0,0,0,0,0,0,0,0,0,No fetched source URL,Identify an accessible official product-specific source
+Compute (Bridgend) Ltd.,3,1,2,2,0,0,0,0,3,0,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+"Confluent, Inc",1,1,3,3,0,0,0,0,1,0,1,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+Data Kinetics Ltd,3,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+Dynatrace,1,2,2,1,1,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+FIS,3,0,0,0,0,0,0,0,0,0,0,No fetched source URL,Identify an accessible official product-specific source
+"Global 360, Inc.",1,1,1,1,0,0,0,0,0,0,1,Checked — no structured evidence,Capture permitted rendered report and inspect linked documents
+GXS,1,1,5,5,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+IBM,137,50,59,59,0,0,0,0,44,0,49,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+"Levi Ray & Shoup, Inc.",7,0,0,0,0,0,0,0,0,0,0,No fetched source URL,Identify an accessible official product-specific source
+Macro 4,1,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+"NewEra Software, Inc.",1,2,2,2,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+Open Source Software,2,3,14,14,0,0,0,0,0,0,2,Checked — no structured evidence,Capture permitted rendered report and inspect linked documents
+OpenText Corporation,3,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+"PKWARE, Inc.",1,1,1,1,0,0,0,0,1,0,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+Precisely,8,8,18,18,0,0,0,0,53,24,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+Quest Software Inc,1,0,0,0,0,0,0,0,0,0,0,No fetched source URL,Identify an accessible official product-specific source
+Rocket,10,6,6,4,2,0,0,0,0,1,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+Segus,1,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+Software Diversified Services,1,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
+"Systemware, Inc.",1,1,1,1,0,0,0,0,10,0,0,Evidence only — no exact compatibility claim,Review document facts; obtain exact release evidence
+VANGUARD Integrity Prof.,13,1,1,1,0,0,0,0,0,0,0,Checked — no structured evidence,Identify an accessible official product-specific source
